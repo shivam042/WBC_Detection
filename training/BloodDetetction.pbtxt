@@ -1,0 +1,22 @@
+item {
+  id: 1
+  name: 'Basophil'
+}
+item {
+  id: 2
+  name: 'Eosinophil'
+}
+item {
+  id: 3
+  name: 'Lymphocyte'
+}
+item {
+  id: 4
+  name: 'Monocyte'
+}
+item {
+  id: 5
+  name: 'Neutrophil'
+}
+
+
